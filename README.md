@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ashlesh3755" target="blank"><img src="https://img.shields.io/twitter/follow/ashlesh3755?logo=twitter&style=for-the-badge" alt="ashlesh3755" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS etc**
+- 🌱 I’m currently learning **HTML,CSS,javascript etc**
+
+- 💬 Ask me about **UI design**
 
 - 📫 How to reach me **ashleshnayak397@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashleshnayak&show_icons=true&locale=en" alt="ashleshnayak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashleshnayak&" alt="ashleshnayak" /></p>
+
