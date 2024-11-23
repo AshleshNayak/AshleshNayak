@@ -1,15 +1,15 @@
-![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+![MasterHead](https://camo.githubusercontent.com/8276d40a11c4fca0f195d4dbf0f6b3bb64b1383f01ca99be5231a225de8e8ba5/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Ashlesh V Nayak</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleshnayak&label=Profile%20views&color=0e75b6&style=flat" alt="ashleshnayak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashlesh3755" target="blank"><img src="https://img.shields.io/twitter/follow/ashlesh3755?logo=twitter&style=for-the-badge" alt="ashlesh3755" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,javascript etc**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **UI design**
+- 💬 Ask me about **UI Design**
 
 - 📫 How to reach me **ashleshnayak397@gmail.com**
 
