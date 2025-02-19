@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashlesh3755" target="blank"><img src="https://img.shields.io/twitter/follow/ashlesh3755?logo=twitter&style=for-the-badge" alt="ashlesh3755" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, ML**
 
 - 💬 Ask me about **UI Design**
 
